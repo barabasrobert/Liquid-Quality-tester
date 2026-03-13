@@ -12,10 +12,10 @@ Detects wine/liquid types (dark red, bright red, rosé, yellowish, colorless) by
 
 **Pinout:**
 
-- Red channel → A3 (PWM)
-- Green channel → A1 (PWM)
-- Blue channel → A2 (PWM)
-- Sensor → A0
+- Red channel: A3 (PWM)
+- Green channel: A1 (PWM)
+- Blue channel: A2 (PWM)
+- Sensor: A0
 
 ## How it works
 
